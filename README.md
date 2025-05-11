@@ -16,8 +16,8 @@ Tower Trap is an original 3-player strategic board game built with Python and Py
 - `AI-Project-Report.docx` - Final report covering rules, AI logic, and design
 - `AI-Demo video.mkv` - 2-minute demonstration video
 
-## 📽️ Demo Video
-[Demo Video Link (Upload to GitHub or YouTube)](AI-Demo video.mkv)
+## 📽️ Demo File
+AI-Demo video.mkv
 
 ## 👨‍💻 Team Members
 - Sandeep Kumar (22K-4723)
